@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6a0111/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0111/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說相應相可經
+  identifiers:
+    krp: KR6a0111
+    cbeta: T02n0111
+    cbeta_old_id: T02n0111
+    authorityid: CA0003562
+    json_key: T0111
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0111.xml
+    old_id: T02n0111
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0111_000-T.yaml, hash: 'sha256:b7b3957961bbc086421f2a1b44dcd719715b9ef13f1ec9521a634646d1d1d47f'}
+  - {seq: 1, filename: KR6a0111_001-T.yaml, hash: 'sha256:b0e314db87bc6dd316c0d552515eb0c1a1449573dfb2e9289f6a053bac544c5e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0111_000-T.markers.yaml, hash: 'sha256:2a2781dbd249731f6c4dc351b10fa4f9d1a8c64f1adf0611de2fab8c863bed73'}
+  - {seq: 1, role: markers, filename: assets/KR6a0111_001-T.markers.yaml, hash: 'sha256:5e5846e336f88096caa0384da820850f324a5cfe1e941c403a14d102c9a400f6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0111_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 379
+  label: 佛說相應相可經
+  type: juan
+  level: 1
+hash: sha256:cf825f1c1775300be26fc08efae96e7e8ec41606eb0276537abb185de3ae377b

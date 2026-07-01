@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6a0111/v1
+canonical_location: https://kanripo.org/bkk/KR6a0111/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說相應相可經
+  identifiers:
+    alt_id:
+    - T02n0111
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0111.xml
+    old_id: T02n0111
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0111_000.yaml, hash: 'sha256:b7b3957961bbc086421f2a1b44dcd719715b9ef13f1ec9521a634646d1d1d47f'}
+  - {seq: 1, filename: KR6a0111_001.yaml, hash: 'sha256:2f14299dfec7361be25ddf63d9644730c671be99e32dd694f331618cd0750c12'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0111_001.markers.yaml, hash: 'sha256:221c129c5f42144b3c7da7b73e6d85d781d855905164750ff6d58a42a010918d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0111_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 379
+  label: 佛說相應相可經
+  type: juan
+  level: 1
+hash: sha256:0a09bf03d21e24729fc8885bfb06d1742e1fcb84d9b609d87b8969c78389f6b9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

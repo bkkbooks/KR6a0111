@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0111/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說相應相可經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0111.xml
+    old_id: T02n0111
+hash: sha256:b7b3957961bbc086421f2a1b44dcd719715b9ef13f1ec9521a634646d1d1d47f
