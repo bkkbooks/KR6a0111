@@ -38,18 +38,14 @@ markers:
   - {type: punctuation, offset: 62, content: 、, id: KR6a0111_T_001-bkkpn20}
   - {type: punctuation, offset: 64, content: 、, id: KR6a0111_T_001-bkkpn21}
   - {type: punctuation, offset: 66, content: 。, id: KR6a0111_T_001-bkkpn22}
-  - {type: substitution, offset: 67, original: 婬, replacement: 淫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1138}}
   - {type: punctuation, offset: 69, content: ，, id: KR6a0111_T_001-bkkpn23}
-  - {type: substitution, offset: 70, original: 婬, replacement: 淫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1138}}
   - {type: punctuation, offset: 73, content: ，, id: KR6a0111_T_001-bkkpn24}
   - {type: punctuation, offset: 75, content: 、, id: KR6a0111_T_001-bkkpn25}
   - {type: line-break, offset: 75, content: '', id: KR6a0111_T_001-0504c04, ed: T, 'n': 0504c04}
   - {type: punctuation, offset: 77, content: 、, id: KR6a0111_T_001-bkkpn26}
   - {type: punctuation, offset: 79, content: 、, id: KR6a0111_T_001-bkkpn27}
   - {type: punctuation, offset: 81, content: ；, id: KR6a0111_T_001-bkkpn28}
-  - {type: substitution, offset: 83, original: 婬, replacement: 淫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1138}}
   - {type: punctuation, offset: 85, content: ，, id: KR6a0111_T_001-bkkpn29}
-  - {type: substitution, offset: 87, original: 婬, replacement: 淫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1138}}
   - {type: punctuation, offset: 90, content: ，, id: KR6a0111_T_001-bkkpn30}
   - {type: punctuation, offset: 92, content: 、, id: KR6a0111_T_001-bkkpn31}
   - {type: line-break, offset: 92, content: '', id: KR6a0111_T_001-0504c05, ed: T, 'n': 0504c05}
@@ -187,4 +183,4 @@ markers:
   - {type: xml-element, offset: 379, content: '', id: pT02p0504c2106_end, name: p, role: close, attrs: {'xml:id': pT02p0504c2106, 'cb:place': inline}}
   - {type: line-break, offset: 379, content: '', id: KR6a0111_T_001-0504c22, ed: T, 'n': 0504c22}
   back: []
-hash: sha256:221c129c5f42144b3c7da7b73e6d85d781d855905164750ff6d58a42a010918d
+hash: sha256:98d49fdced760b346281a112c0c06742e75feade7fa3a5eefe8c42e1343cc64d
